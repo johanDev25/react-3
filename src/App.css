@@ -19,3 +19,13 @@ textarea {
   font-size: 24px;
   text-align: right;
 }
+
+.counter-error {
+  color: #FF0000;
+  font-size: 24px;
+  text-align: right;
+}
+
+.textarea-error{
+  border: 5px solid #FF0000;
+}
